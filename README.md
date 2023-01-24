@@ -1,0 +1,2 @@
+# NewsApp
+Assignment for PACE
